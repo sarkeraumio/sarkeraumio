@@ -17,6 +17,14 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+- Programming: Python, C, C++, VHDL, MATLAB
+- Data analysis: NumPy, Matplotlib, pandas 
+- Cloud/IoT platforms: ThingSpeak
 
 ### Robotics
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -27,12 +35,12 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 
 - **Frameworks:** ROS 2, Nav2, MoveIt
 - **Linux (Ubuntu), Docker**
-- **Localization and mapping:** SLAM (Cartographer, SLAM Toolbox), AMCL
-- **Motion planning and path planning** (A*, DWA, MPC)
+- **Localization and mapping:** SLAM (Cartographer, SLAM Toolbox),
+- **Motion planning and path planning** (A*)
 - **Control:** PID, kinematics (forward/inverse), motor control (BLDC, DC, stepper, servo)
 - **Sensor fusion:** Kalman filter, IMU + odometry fusion
 - **Perception:** LiDAR, Depth cameras, OpenCV, CNN
-- **Simulation:** Gazebo, RViz, 
+- **Simulation:** Gazebo, RViz 
 
 ### Embedded Systems & Firmware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -54,7 +62,7 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logoColor=white)
 
 - **Schematic and PCB design:** KiCad, Altium Designer, EasyEDA
-- **Circuit simulation:** LTspice, MATLAB Simulink,
+- **Circuit simulation:** LTspice, MATLAB Simulink
 - **Analog and Digital circuit design**
 - **Power electronics:** DC-DC converters, motor drivers, wireless power transfer
 - **BOM management**
@@ -70,11 +78,6 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 
 - CAD: Fusion 360, Onshape
 - 3D printing, laser cutting
-
-### Software & Tools
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
