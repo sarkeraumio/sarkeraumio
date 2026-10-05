@@ -1,8 +1,8 @@
 # Hi, I'm Aumio 
 
-**Hardware & Robotics Engineer** · Embedded Systems · ROS 2 · PCB Design · Power Electronics
+**Hardware & Robotics Engineer** · Embedded Systems · Robotics · PCB Design · Power Electronics
 
-I am Currently developing autonomous steam-cleaning robots at **Micro-Clean NexGen**.
+I am currently developing autonomous steam-cleaning robots at **NexGen Robotics**.
 
 - 🤖 Working on: autonomous mobile robots with ROS 2, Nav2, LiDAR, and sensor fusion
 - ⚡ Background: IoT wearables, biomedical signal processing, wireless power transfer for UAVs
@@ -28,7 +28,7 @@ I am Currently developing autonomous steam-cleaning robots at **Micro-Clean NexG
 ![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-IMU_|_Encoders-94D2BD?style=for-the-badge&logoColor=black)
 
 - **Frameworks:** ROS 2, Nav2, MoveIt
-- **Linux (Ubuntu), Docker **
+- **Linux (Ubuntu), Docker**
 - **Localization and mapping:** SLAM (Cartographer, SLAM Toolbox), AMCL
 - **Motion planning and path planning** (A*, DWA, MPC)
 - **Control:** PID, kinematics (forward/inverse), motor control (BLDC, DC, stepper, servo)
@@ -52,9 +52,11 @@ I am Currently developing autonomous steam-cleaning robots at **Micro-Clean NexG
 ![LTspice](https://img.shields.io/badge/LTspice-003366?style=for-the-badge&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logoColor=white)
 
-- Schematic and PCB design (KiCad)
-- Analog circuit design, filters, charge amplifiers
-- Power electronics: power distribution, motor drivers, inductive wireless power transfer (LCC-S compensation)
+- **Schematic and PCB design:** KiCad, Altium Designer, EasyEDA
+- **Circuit simulation:** LTspice, MATLAB Simulink,
+- **Analog and Digital circuit design**
+- **Power electronics:** DC-DC converters, motor drivers, wireless power transfer
+- **BOM management**
 
 ### Test & Debugging
 - Oscilloscope, multimeter, LCR meter, electronic load, thermal camera
@@ -65,7 +67,8 @@ I am Currently developing autonomous steam-cleaning robots at **Micro-Clean NexG
 ![Onshape](https://img.shields.io/badge/Onshape-0077C8?style=for-the-badge&logo=onshape&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-Bambu_Lab-00AE42?style=for-the-badge)
 
-- Chassis and enclosure design, 3D printing, laser cutting
+- **CAD:** Fusion 360, Onshape
+- 3D printing, laser cutting
 
 ### Data & Tools
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -74,21 +77,6 @@ I am Currently developing autonomous steam-cleaning robots at **Micro-Clean NexG
 
 ---
 
-## 🌱 Currently Learning
-FreeRTOS · STM32 · Gazebo simulation · EKF sensor fusion · Altium Designer
-
----
-
-## 🚀 Featured Projects
-| Project | Highlights |
-|---|---|
-| **Autonomous Steam-Cleaning Robot** | ROS 2, Nav2, LiDAR, depth cameras, chassis design in Fusion 360 |
-| **Wireless Charging for UAVs** | Inductive power transfer, LCC-S compensation, 94% efficiency on hardware |
-| **Remote-Controlled Ping Pong Ball Thrower** | ESP32, PS4 controller over Bluetooth, brushless launcher, 24V power distribution |
-| **IoT HugVest for Dogs** | ESP32, physiological sensing, pumps and motor control |
-| **Smart Electricity Meter** | Arduino, RFID, fault detection, ThingSpeak cloud logging |
-
----
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aumio-sarker/)
