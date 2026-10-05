@@ -4,7 +4,6 @@
 
 I am currently developing autonomous steam-cleaning robots at **NexGen Robotics**.
 
-- 🤖 Working on: autonomous mobile robots with ROS 2, Nav2, LiDAR, and sensor fusion
 - ⚡ Background: IoT wearables, biomedical signal processing, wireless power transfer for UAVs
 - 🎓 B.Eng. Electronic & Electrical Engineering, City University of Hong Kong
 - 📍 Hong Kong
@@ -42,10 +41,13 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Microcontrollers: ESP32, ESP32-S3, Arduino, Raspberry Pi
-- Protocols: I2C, SPI, UART, Bluetooth, Wi-Fi
-- Device drivers for sensors, motors, and displays
-- Wireless control, IoT data pipelines (ThingSpeak), API integration
+
+- **Microcontrollers:** ESP32 (orig), ESP32-S3, STM32F4 nucleo, Arduino UNO, Arduino MEGA, Arduino NANO
+- **Single-board computers:** Raspberry Pi 4 & 5, NVIDIA Jetson Orin Nano
+- **Firmware development:** RTOS (FreeRTOS), STM32CubeMX, STM32CubeIDE
+- **Communication protocols:** I2C, SPI, UART, CAN, USB
+- **Wireless:** Bluetooth/BLE, Wi-Fi, API integration
+- **Peripherals:** GPIO, ADC/DAC, PWM, timers, interrupts, 
 
 ### Hardware Design
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
@@ -67,16 +69,15 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 ![Onshape](https://img.shields.io/badge/Onshape-0077C8?style=for-the-badge&logo=onshape&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-Bambu_Lab-00AE42?style=for-the-badge)
 
-- **CAD:** Fusion 360, Onshape
+- CAD: Fusion 360, Onshape
 - 3D printing, laser cutting
 
-### Data & Tools
+### Software & Tools
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aumio-sarker/)
