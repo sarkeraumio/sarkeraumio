@@ -7,7 +7,6 @@ Embedded Systems · Robotics · PCB Design · Power Electronics
 I am currently developing autonomous steam-cleaning robots at **NexGen Robotics**.
 
 - 🎓 B.Eng. Electronic & Electrical Engineering, City University of Hong Kong
-- 📍 Hong Kong
 
 ---
 
