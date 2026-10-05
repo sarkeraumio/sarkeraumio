@@ -1,6 +1,7 @@
 # Hi, I'm Aumio 
 
-**Hardware & Robotics Engineer** · Embedded Systems · Robotics · PCB Design · Power Electronics
+**Hardware & Robotics Engineer** 
+Embedded Systems · Robotics · PCB Design · Power Electronics
 
 I am currently developing autonomous steam-cleaning robots at **NexGen Robotics**.
 
