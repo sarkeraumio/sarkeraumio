@@ -12,8 +12,8 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 ## 🚀 Featured Projects
 | Project | Highlights |
 |---|---|
-| [**Remote-Controlled Ping Pong Ball Thrower**]([https://github.com/sarkeraumio/REPO-NAME](https://github.com/sarkeraumio/Ping-Pong_Ball_Throwing_Robot)) | ESP32, PS4 controller over Bluetooth, brushless launcher, 24V power distribution |
-| [**Smart Electricity Meter**](https://github.com/sarkeraumio/REPO-NAME) | Arduino, RFID, fault detection, ThingSpeak cloud logging |
+| [**Remote-Controlled Ping Pong Ball Thrower**](https://github.com/sarkeraumio/Ping-Pong_Ball_Throwing_Robot) | ESP32, PS4 controller over Bluetooth, brushless launcher, 24V power distribution |
+| [**Smart Electricity Meter**](https://github.com/sarkeraumio/Smart-Electricity-Meter) | Arduino, RFID, fault detection, ThingSpeak cloud logging |
 
 ---
 
