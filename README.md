@@ -1,8 +1,8 @@
-# Hi, I'm Aumio 👋
+# Hi, I'm Aumio 
 
 **Hardware & Robotics Engineer** · Embedded Systems · ROS 2 · PCB Design · Power Electronics
 
-I build machines from the circuit board up. Currently developing autonomous steam-cleaning robots at **Micro-Clean NexGen**, and CTO of **Copper & Code**, an engineering services company for PCB and 3D-printing design.
+I am Currently developing autonomous steam-cleaning robots at **Micro-Clean NexGen**.
 
 - 🤖 Working on: autonomous mobile robots with ROS 2, Nav2, LiDAR, and sensor fusion
 - ⚡ Background: IoT wearables, biomedical signal processing, wireless power transfer for UAVs
@@ -27,9 +27,14 @@ I build machines from the circuit board up. Currently developing autonomous stea
 ![LiDAR](https://img.shields.io/badge/LiDAR-Depth_Cameras-005F73?style=for-the-badge)
 ![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-IMU_|_Encoders-94D2BD?style=for-the-badge&logoColor=black)
 
-- ROS 2, Nav2, SLAM, motion planning
-- Robot bring-up, localization, obstacle detection
-- Sensor integration: 360° LiDAR, depth cameras, IMU, wheel encoders
+- **Frameworks:** ROS 2, Nav2, MoveIt
+- **Linux (Ubuntu), Docker **
+- **Localization and mapping:** SLAM (Cartographer, SLAM Toolbox), AMCL
+- **Motion planning and path planning** (A*, DWA, MPC)
+- **Control:** PID, kinematics (forward/inverse), motor control (BLDC, DC, stepper, servo)
+- **Sensor fusion:** Kalman filter, IMU + odometry fusion
+- **Perception:** LiDAR, Depth cameras, OpenCV, CNN
+- **Simulation:** Gazebo, RViz, 
 
 ### Embedded Systems & Firmware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
