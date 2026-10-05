@@ -4,7 +4,6 @@
 
 I am currently developing autonomous steam-cleaning robots at **NexGen Robotics**.
 
-- ⚡ Background: IoT wearables, biomedical signal processing, wireless power transfer for UAVs
 - 🎓 B.Eng. Electronic & Electrical Engineering, City University of Hong Kong
 - 📍 Hong Kong
 
