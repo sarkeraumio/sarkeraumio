@@ -65,7 +65,7 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 - **Firmware development:** RTOS (FreeRTOS), Arduino IDE, STM32CubeMX, STM32CubeIDE
 - **Communication protocols:** I2C, SPI, UART, CAN, USB
 - **Wireless:** Bluetooth/BLE, Wi-Fi, API integration
-- **Peripherals:** GPIO, ADC/DAC, PWM, timers, interrupts, 
+- **Peripherals & Interfaces:** GPIO, ADC/DAC, PWM, timers, interrupts, 
 
 ### Hardware Design
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
