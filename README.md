@@ -72,7 +72,7 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 ![LTspice](https://img.shields.io/badge/LTspice-003366?style=for-the-badge&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logoColor=white)
 
-- **Schematic and PCB design:** KiCad, Altium Designer, EasyEDA
+- **Schematic and PCB design:** KiCad, EasyEDA
 - **Circuit simulation:** LTspice, MATLAB Simulink
 - **Analog and Digital circuit design**
 - **Power electronics:** DC-DC converters, motor drivers, wireless power transfer
