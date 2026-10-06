@@ -62,7 +62,7 @@ I am currently developing autonomous steam-cleaning robots at **NexGen Robotics*
 
 - **Microcontrollers:** ESP32 (orig), ESP32-S3, STM32F4 nucleo, Arduino UNO, Arduino MEGA, Arduino NANO
 - **Single-board computers:** Raspberry Pi 4 & 5, NVIDIA Jetson Orin Nano
-- **Firmware development:** RTOS (FreeRTOS), STM32CubeMX, STM32CubeIDE
+- **Firmware development:** RTOS (FreeRTOS), Arduino IDE, STM32CubeMX, STM32CubeIDE
 - **Communication protocols:** I2C, SPI, UART, CAN, USB
 - **Wireless:** Bluetooth/BLE, Wi-Fi, API integration
 - **Peripherals:** GPIO, ADC/DAC, PWM, timers, interrupts, 
